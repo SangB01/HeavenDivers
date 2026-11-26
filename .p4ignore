@@ -1,0 +1,34 @@
+# HeavenDivers - Unreal Engine 5 / Perforce
+
+# Generated Unreal Engine files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Local IDE files
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln
+*.slnx
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# Build and temporary files
+*.tmp
+*.log
+*.pdb
+*.obj
+*.ipch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local Perforce configuration
+.p4config
